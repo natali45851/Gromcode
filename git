@@ -1,3 +1,6 @@
+Если изменения только на удаленном то  git status git pull
+
+
 https://github.com/natali45851/
 echo "# Gromcode" >> README.md
 git init
@@ -8,20 +11,20 @@ git remote add origin https://github.com/natali45851/Gromcode.git
 git push -u origin main
                
 
-�or push an existing repository from the command line
+…or push an existing repository from the command line
 
 git remote add origin https://github.com/natali45851/Gromcode.git
 git branch -M main
 git push -u origin main
 
-�or import code from another repository
+…or import code from another repository
 
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
 natali45851
 nat1624649
 https://habr.com/ru/post/273897/
-git ������� � ����������
+git çàíåñòè ñ ëîêàëüíîãî
 git status
 git add --all
 git commit -a -m "comment"
